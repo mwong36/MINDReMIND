@@ -1,0 +1,126 @@
+.iphone-pro-max {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro-max .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 430px;
+  height: 932px;
+  position: relative;
+}
+
+.iphone-pro-max .overlap {
+  position: absolute;
+  width: 336px;
+  height: 162px;
+  top: 587px;
+  left: 47px;
+  background-image: url(https://c.animaapp.com/sGNDfvx3/img/rectangle-17@2x.png);
+  background-size: 100% 100%;
+}
+
+.iphone-pro-max .text-wrapper {
+  left: 36px;
+  position: absolute;
+  width: 263px;
+  top: 59px;
+  font-family: "Inria Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .overlap-group {
+  position: absolute;
+  width: 336px;
+  height: 162px;
+  top: 391px;
+  left: 47px;
+}
+
+.iphone-pro-max .text-wrapper-2 {
+  left: 43px;
+  position: absolute;
+  width: 263px;
+  top: 59px;
+  font-family: "Inria Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .rectangle {
+  position: absolute;
+  width: 336px;
+  height: 162px;
+  top: 0;
+  left: 0;
+}
+
+.iphone-pro-max .div-wrapper {
+  position: absolute;
+  width: 336px;
+  height: 162px;
+  top: 183px;
+  left: 47px;
+  background-image: url(https://c.animaapp.com/sGNDfvx3/img/rectangle-20@2x.png);
+  background-size: 100% 100%;
+}
+
+.iphone-pro-max .text-wrapper-3 {
+  position: absolute;
+  width: 217px;
+  height: 69px;
+  top: 44px;
+  left: 66px;
+  font-family: "Inria Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .overlap-2 {
+  position: absolute;
+  width: 430px;
+  height: 111px;
+  top: 0;
+  left: 7px;
+  background-color: #c084fc;
+}
+
+.iphone-pro-max .text-wrapper-4 {
+  position: absolute;
+  width: 250px;
+  height: 52px;
+  top: 43px;
+  left: 83px;
+  font-family: "Inria Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .img {
+  position: absolute;
+  width: 423px;
+  height: 125px;
+  top: 807px;
+  left: 7px;
+}
